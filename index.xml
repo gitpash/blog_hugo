@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>From brain-to-brain</title>
+    <link>https://gitpash.github.io/blog_hugo/index.xml</link>
+    <description>Recent content on From brain-to-brain</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 03 Jan 2017 21:29:12 +0300</lastBuildDate>
+    <atom:link href="https://gitpash.github.io/blog_hugo/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>**--</title>
+      <link>https://gitpash.github.io/blog_hugo/post/welcome/</link>
+      <pubDate>Tue, 03 Jan 2017 21:29:12 +0300</pubDate>
+      
+      <guid>https://gitpash.github.io/blog_hugo/post/welcome/</guid>
+      <description>&lt;p&gt;Hi, there! I&amp;rsquo;m Pavel Luzanov self-educated developer and that&amp;rsquo;s my new Hugo_based superspeed web page.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
